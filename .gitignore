@@ -1,10 +1,1 @@
-# Ignore compiled Java class files
 *.class
-
-# Ignore temporary files
-*.log
-*.tmp
-
-# Ignore IDE folders (optional)
-.idea/
-*.iml
